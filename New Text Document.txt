@@ -1,0 +1,7 @@
+4 commands for git hub
+
+1:git status
+2:git add .
+3:git commit -m "enter new or update or final"
+4:git push origin main
+
